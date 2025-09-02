@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-2xl font-heading font-bold">Arfatama Interior</h3>
             <p className="text-background/80 leading-relaxed">
-              Interior dengan standar kontraktor. Profesional, transparan, dan tepat waktu untuk semua kebutuhan desain interior Anda.
+              Design & Build Interior. Profesional, transparan, dan tepat waktu untuk semua kebutuhan desain interior Anda.
             </p>
             <div className="flex gap-4">
               <button className="w-10 h-10 bg-background/10 rounded-lg flex items-center justify-center hover:bg-background/20 transition-colors">
