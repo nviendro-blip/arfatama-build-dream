@@ -16,9 +16,9 @@ const Hero = () => {
               <h1 className="text-4xl lg:text-6xl font-heading font-bold text-foreground leading-tight">
                 Interior dengan{" "}
                 <span className="text-primary bg-gradient-primary bg-clip-text text-transparent">
-                  Standar Kontraktor
+                  Design Mewah
                 </span>
-                {" "}– Semua Desain Pasti Bisa Dibangun.
+                {" "}– Semua Desain Pasti Bisa Diwujudkan.
               </h1>
               <p className="text-xl text-muted-foreground leading-relaxed">
                 Dari desain, perencanaan, hingga pembangunan. Profesional, transparan, dan tepat waktu.
@@ -33,11 +33,11 @@ const Hero = () => {
                 className="group"
               >
                 <MessageCircle className="w-5 h-5" />
-                Konsultasi Gratis Sekarang
+                Konsultasi Interior Sekarang
                 <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </Button>
               <Button variant="professional" size="xl">
-                Lihat Paket & Estimasi
+                Lihat Estimasi & Biaya
               </Button>
             </div>
 
