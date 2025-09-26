@@ -14,9 +14,9 @@ const Hero = () => {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-4xl lg:text-6xl font-heading font-bold text-foreground leading-tight">
-                Interior dengan{" "}
+                Interior Dengan {" "}
                 <span className="text-primary bg-gradient-primary bg-clip-text text-transparent">
-                  Design Mewah
+                  Desain Mewah
                 </span>
                 {" "}– Semua Desain Pasti Bisa Diwujudkan.
               </h1>
